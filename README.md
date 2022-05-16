@@ -30,3 +30,4 @@ In conclusion we found a solution to our problem statement by using Cycle GAN to
 
 Our code is inspired by:
 https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
+Reference Paper: https://arxiv.org/pdf/1703.10593.pdf
